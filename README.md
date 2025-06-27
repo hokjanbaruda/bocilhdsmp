@@ -1,2 +1,1 @@
-# bocilhdsmp
-bocilhdsmp
+# [bocilhdsmp](https://bocilhdsmp.pages.dev)
